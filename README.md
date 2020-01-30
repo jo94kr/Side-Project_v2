@@ -22,5 +22,3 @@ Language|JAVA, JSP & Servlet(MVC Model-1), AJAX, JQUERY, JAVASCRIPT
 영화 정보 검색(MOVIES)| MOVIES 메뉴에서 영화명 이나 감독명을 검색 할 경우 영화명, 제작연도, 개봉연도, 제작국가, 감독명을 10개씩 출력합니다. 그리고 국적을 선택하여 해당 국가에 대한 영화명이나 감독명으로 검색할 수 있도록 하였습니다.
 CONTACT| CONTACT US메뉴에서는 mail API 를 이용해 admin에게 메일을 보낼 수 있있도록 하였습니다.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
